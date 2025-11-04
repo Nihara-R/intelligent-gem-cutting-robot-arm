@@ -2,7 +2,7 @@
 
 ### 🎓 BSc (Hons) in Information Technology – Final Year Research Project  
 **Sri Lanka Institute of Information Technology (SLIIT)**  
-**Research Group:** Robotics and Intelligent Systems  
+**Research Group:** Autonomous Intelligent Machines and Systems   
 
 ---
 
@@ -33,15 +33,4 @@ The system performs **four key functions**:
    The robotic arm executes the cutting process according to pre-calculated angles and paths, producing a polished gem ready for further refinement or sale.
 
 ---
-
-## 🧩 Technologies Used
-
-- **Programming:** Python, C/C++  
-- **Hardware:** Arduino / Raspberry Pi, Servo Motors, Sensors  
-- **AI & ML Tools:** TensorFlow, OpenCV, Scikit-learn, Numpy  
-- **Other Tools:** SolidWorks (for mechanical design), VS Code, Jupyter Notebook  
-
----
-
-## 📁 Repository Structure
 
